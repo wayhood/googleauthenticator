@@ -9,7 +9,7 @@
             "name": "Song Yeung",
             "email": "netyum@163.com"
         }
-    ]
+    ],
     "autoload": {
         "psr-4": {
             "wh\\googleauthenticator\\": ""
