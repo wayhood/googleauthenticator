@@ -2,7 +2,7 @@
     "name": "wayhood/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
     "type": "library",
-    "keywords": [googleauthenticator"],
+    "keywords": ["googleauthenticator"],
     "license": "BSD-4-Clause",
     "authors": [
         {
