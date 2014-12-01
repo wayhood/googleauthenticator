@@ -1,0 +1,18 @@
+{
+    "name": "wayhood/googleauthenticator",
+    "description": "Google Authenticator 2-factor authentication",
+    "type": "library",
+    "keywords": [googleauthenticator"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Song Yeung",
+            "email": "netyum@163.com"
+        }
+    ]
+    "autoload": {
+        "psr-4": {
+            "wh\\googleauthenticator\\": ""
+        }
+    }
+}
